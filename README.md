@@ -32,6 +32,22 @@
 * THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 Mock-Up
 
+## Screenshot 
+![]()
+
+
+## Links
+* [My GitHub Repo for the Application](https://github.com/Jakkiexplore/employee-oncheck)
+
+
 ## Credentials
+1. 
+2. 
+3. 
+4. 
+
 
 ## Contact Me
+- [My github URL](https://github.com/Jakkiexplore)
+- [Gmail](N/A)
+- Cell: (612) 123-1234 
