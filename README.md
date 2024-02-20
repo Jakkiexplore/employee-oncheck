@@ -42,9 +42,7 @@ Mock-Up
 
 ## Credentials
 1. Class Activites SQL-#26 and student mini project
-2. 
-3. 
-4. 
+
 
 
 ## Contact Me
